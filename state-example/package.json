@@ -1,0 +1,19 @@
+{
+  "name": "development-environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
